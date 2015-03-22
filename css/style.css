@@ -43,7 +43,7 @@ body {
 	-ms-transition:all .2s linear;
 }
 .header_top {
-	background:  snow;
+	background: white;
 	padding:10px 0 60px 0;
 }
 .logo {
