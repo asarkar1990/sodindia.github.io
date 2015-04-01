@@ -33,7 +33,7 @@ body {
 	font-size:100%;
 }
 .wrap {
-	/* background-color: whitesmoke; */
+	/* background-color: aliceblue; */
 	width:80%;
 	margin: 0 auto;
 	transition:all .2s linear;
@@ -43,7 +43,8 @@ body {
 	-ms-transition:all .2s linear;
 }
 .header_top {
-	background: white;
+	background-color: rgb(16, 45, 80);
+	/* background-image: url("../images/tile.png"); */
 	padding:10px 0 60px 0;
 }
 .logo {
@@ -678,7 +679,8 @@ body {
 /******* End Contact Page *******/
 
 .footer {
-	background: snow;
+	background-color: rgb(16, 43, 80);
+	/* background-image: url(../images/tile.png); */
 	color: #FFF;
 	box-shadow: inset 1px 1px 5px #252525;
 }
